@@ -1,0 +1,23 @@
+{
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "e78afbd4-a1f6-4b56-b7c8-39c43269d8ed",
+        "name": "Xano",
+        "designId": "7d503042-fffa-4c86-945e-217de9d3e8d6",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {}
+    },
+    "f5856798-485d-47be-b433-d43d771c64e1": {
+        "id": "eb1432bf-17ee-49f4-b0b3-776e40d3262f",
+        "name": "Xano Auth",
+        "designId": "7d503042-fffa-4c86-945e-217de9d3e8d6",
+        "pluginId": "f5856798-485d-47be-b433-d43d771c64e1",
+        "publicData": {}
+    },
+    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
+        "id": "2ed52616-1788-40ce-a17c-d6804a2ffd20",
+        "name": "PWA",
+        "designId": "7d503042-fffa-4c86-945e-217de9d3e8d6",
+        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
+        "publicData": {}
+    }
+}

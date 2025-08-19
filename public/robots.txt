@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://www.nanofacto.com/sitemap.xml
